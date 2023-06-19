@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import ListResources from '/Users/raakeshs/Documents/work/clients/rockwell/code/UI/carbon_tutorial/carbon-tutorial-vue/src/components/Resources/ListResources.vue'
+import ListResources from '/src/components/Resources/ListResources.vue'
 
 export default {
   components: {
